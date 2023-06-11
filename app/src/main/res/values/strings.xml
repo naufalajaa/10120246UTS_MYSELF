@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">10120246UTS</string>
+
+    //Headings
+    <string name="heading_one">MYSELF APPS</string>
+    <string name="heading_two">MYSELF APPS</string>
+    <string name="heading_three">MYSELF APPS</string>
+    <string name="heading_fourth">MYSELF APPS</string>
+
+    //Description
+    <string name="desc_one">Hi everyone !!!</string>
+    <string name="desc_two">In this application there are several menus, namely Home, Daily Activity, Gallery, Favorite Music and Video, and Profile.</string>
+    <string name="desc_three">Please go to the next page.</string>
+</resources>
